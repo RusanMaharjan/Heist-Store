@@ -57,12 +57,9 @@
                             &nbsp;
                             <i class="far fa-calendar"> <?php echo date('F j, Y', strtotime($post['created_at'])); ?></i>
                         </div>
+                        
                     </div>
-                <?php endforeach; ?>
-
-                
-
-                
+                <?php endforeach; ?>   
             </div>
         </div>
         <!--Post Slider ends here-->

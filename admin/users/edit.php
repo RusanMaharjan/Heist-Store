@@ -71,10 +71,8 @@
                                     <input type="checkbox" name="admin">
                                     Admin
                                 </label>
-                            <?php endif; ?>
-                            
+                            <?php endif; ?>                            
                         </div>
-
                         <div>
                             <button type="submit" name="update-user" class="btn btn-big">Update User</button>
                         </div>

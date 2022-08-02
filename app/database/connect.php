@@ -1,6 +1,6 @@
 <?php
 
-    $host = 'localhost';
+    $host = 'localhost:7777';
     $user = 'root';
     $pass = '';
     $db_name = 'heist_store';
